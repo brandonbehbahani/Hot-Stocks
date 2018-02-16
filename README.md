@@ -1,2 +1,2 @@
-# stocker
-A program for analyzing closing prices for stocks
+# Hot Stocks
+A program for analyzing closing prices for stocks.
