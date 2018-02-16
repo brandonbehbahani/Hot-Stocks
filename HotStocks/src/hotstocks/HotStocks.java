@@ -9,10 +9,9 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Created by Brandon Behbahani on 7/22/2017
- * 
- */
+
+  //Created by Brandon Behbahani on 7/22/2017
+ 
 
 public class HotStocks { 
     static ArrayList<HotStocks> stocks = new ArrayList<>();
