@@ -11,6 +11,7 @@ import java.util.Scanner;
 
 
   //Created by Brandon Behbahani on 7/22/2017
+  //improvements started on 2/15/2018
  
 
 public class HotStocks { 
